@@ -1,0 +1,14 @@
+canvas {
+    border: 3px solid black;
+}
+
+#container {
+    width: 700px;
+    margin: 10px auto 10px auto;
+    text-align: center;
+}
+
+#score {
+    font-size: 100px;
+    font-weight: bold;
+}
